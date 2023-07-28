@@ -1,6 +1,11 @@
+import React from 'react';
+import StockForm from './StockForm';
+
 function App() {
 	return (
-		<h1>Hello world</h1>
+		<div>
+		  <StockForm />
+		</div>
 	);
 }
 
